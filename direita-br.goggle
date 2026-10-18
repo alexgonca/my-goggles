@@ -1,0 +1,8 @@
+! name: Notícias de Direita no Brasil
+! description: Veículos de Direita Brasileiros
+! public: false
+! author: Alex
+
+$boost=10,site=gazetadopovo.com.br
+$boost=10,site=revistaoeste.com
+$boost=8,site=conexaopolitica.com.br

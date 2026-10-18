@@ -1,0 +1,17 @@
+! name: Notícias Mainstream no Brasil
+! description: Veículos Mainstream Brasileiros
+! public: false
+! author: Alex
+
+$boost=10,site=folha.uol.com.br
+$boost=10,site=estadao.com.br
+$boost=10,site=oglobo.globo.com
+$boost=8,site=bbc.com
+$boost=8,site=correiobraziliense.com.br
+$boost=8,site=em.com.br
+$boost=8,site=exame.com
+$boost=8,site=noticias.uol.com.br
+$boost=8,site=g1.globo.com
+$boost=6,site=brasil.elpais.com
+$boost=6,site=gazetadopovo.com.br
+$boost=6,site=apublica.org

@@ -1,0 +1,11 @@
+! name: Notícias de Esquerda no Brasil
+! description: Veículos de Esquerda Brasileiros
+! public: false
+! author: Alex
+
+$boost=10,site=brasil247.com
+$boost=10,site=brasildefato.com.br
+$boost=10,site=jornalggn.com.br
+$boost=10,site=diariodocentrodomundo.com.br
+$boost=10,site=revistaforum.com.br
+$boost=10,site=redebrasilatual.com.br
