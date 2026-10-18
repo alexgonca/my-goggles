@@ -6,7 +6,8 @@
 $boost=10,site=folha.uol.com.br
 $boost=10,site=estadao.com.br
 $boost=10,site=oglobo.globo.com
-$boost=8,site=bbc.com
+$boost=1,site=bbc.com
+/portuguese/$downrank=10,site=bbc.com
 $boost=8,site=correiobraziliense.com.br
 $boost=8,site=em.com.br
 $boost=8,site=exame.com

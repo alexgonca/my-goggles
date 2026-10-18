@@ -6,6 +6,7 @@
 $boost=10,site=nytimes.com
 $boost=10,site=wsj.com
 $boost=10,site=bbc.com
+/portuguese/$downrank=10,site=bbc.com
 $boost=10,site=economist.com
 $boost=10,site=foreignaffairs.com
 $boost=10,site=theatlantic.com
