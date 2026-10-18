@@ -19,7 +19,7 @@ $boost=6,site=apublica.org
 
 $downrank=5,site=meon.com.br
 $downrank=5,site=antena1.com.br
-$downrank=5,terra.com.br
+$downrank=5,site=terra.com.br
 $downrank=5,site=revistaoeste.com
 
 $downrank=10,site=brasil247.com
